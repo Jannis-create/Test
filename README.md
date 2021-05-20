@@ -9,5 +9,3 @@ Du kannst:
 
 ...Du kannst auch Links erstellen, z.B. 
 
-
-[Jannis bei youTube](https://www.youtube.com/channel/UCGn9nv3TPraDR3eM-PDwMuQ)
